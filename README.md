@@ -19,7 +19,7 @@ The main idea of this source code based on [Download Loading](https://dribbble.c
 1. Clone the repository:
 
   ``` bash
-    git clone https://github.com/helloItsHEssam/AnalyzingGoalsLoading.git
+    git clone https://github.com/helloItsHEssam/DownloadLoading.git
   ```
 
 ###  Contributing 🤝
